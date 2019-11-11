@@ -1,7 +1,7 @@
 # 5G---AI-based-RAN
 AI based efficient Energy management of 5G Base station
 
-Downlaoded dataset from Kagggle : https://www.kaggle.com/naebolo/predict-traffic-of-lte-network
+Downlaoded dataset from Kaggle : https://www.kaggle.com/naebolo/predict-traffic-of-lte-network
 
 Tried Random Forest, ARIMA & LSTM Models on the same dataset.
 
